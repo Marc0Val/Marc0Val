@@ -5,6 +5,7 @@
 <p align="left">
 <a href="https://dev.to/marcogg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="marcogg" height="30" width="40" /></a>
 <a href="https://twitter.com/marcovaldizssj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marcoavaldizssj" height="30" width="40" /></a>
+<a href="https://twitter.com/ValdZ63164" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marcoavaldizssj" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
